@@ -1,4 +1,4 @@
-// let keyword are called as block scope variables. 
+// let keyword are called as block scoped variables. 
 // When the block scope variables are declared inside a block, they are accesible inside the block that they are defined in 
 // but no outside the block
 
